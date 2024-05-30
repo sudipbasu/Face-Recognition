@@ -41,8 +41,6 @@ While face recognition technology offers many benefits, it also raises ethical c
 Ensuring Data Privacy: Implementing strict data protection measures and ensuring that data is collected and stored securely.
 Obtaining Consent: Ensuring that individuals are aware of and consent to the use of their facial data.
 Bias Mitigation: Regularly auditing and improving the models to minimize biases and ensure fair performance across different demographic groups.
-## Conclusion
-The face recognition project aims to develop a sophisticated system capable of accurately identifying and verifying individuals using facial features. By leveraging advanced machine learning techniques and addressing ethical concerns, the project seeks to contribute to the advancement of secure, efficient, and fair biometric recognition technologies.
 
 ## Installation
 1. Clone the repository to your local machine. 
@@ -54,6 +52,9 @@ The face recognition project aims to develop a sophisticated system capable of a
 2. Convert the dataset into python features_extraction_to_csv.py.
 3. To take the attendance run python attendance_taker.py .
 4. Check the Database by python app.py.
+## Conclusion
+The face recognition project aims to develop a sophisticated system capable of accurately identifying and verifying individuals using facial features. By leveraging advanced machine learning techniques and addressing ethical concerns, the project seeks to contribute to the advancement of secure, efficient, and fair biometric recognition technologies.
+
 ### Note: It's highly recommended to use some standard IDE's such as VS Code or PyCharm etc.
 
 
