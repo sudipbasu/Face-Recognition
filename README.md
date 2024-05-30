@@ -44,6 +44,18 @@ Bias Mitigation: Regularly auditing and improving the models to minimize biases 
 # Conclusion
 The face recognition project aims to develop a sophisticated system capable of accurately identifying and verifying individuals using facial features. By leveraging advanced machine learning techniques and addressing ethical concerns, the project seeks to contribute to the advancement of secure, efficient, and fair biometric recognition technologies.
 
+<h4><u>Installation</u></h4>
+1. Clone the repository to your local machine. 
+2. Install the required packages using pip install -r requirements.txt.
+3. Download the dlib models from https://drive.google.com/drive/folders/1t-MWo6sp76dZsM9vBA7uWnMLvoFcw9nM?usp=sharing and place the data folder inside the repository.
+
+<h4><u>Sequence of execution</u></h4>
+1. Collect the Faces Dataset by running  python get_faces_from_camera_tkinter.py .
+2. Convert the dataset into python features_extraction_to_csv.py.
+3. To take the attendance run python attendance_taker.py .
+4. Check the Database by python app.py.
+Note: It's highly recommended to use some standard IDE's such as VS Code or PyCharm etc.
+
 
 
 
