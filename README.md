@@ -54,7 +54,7 @@ The face recognition project aims to develop a sophisticated system capable of a
 2. Convert the dataset into python features_extraction_to_csv.py.
 3. To take the attendance run python attendance_taker.py .
 4. Check the Database by python app.py.
-Note: It's highly recommended to use some standard IDE's such as VS Code or PyCharm etc.
+### Note: It's highly recommended to use some standard IDE's such as VS Code or PyCharm etc.
 
 
 
