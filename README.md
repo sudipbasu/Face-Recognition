@@ -26,6 +26,16 @@ Evaluation: Test the model on a separate validation set to evaluate its accuracy
 
 Implementation: Integrate the trained model into a real-time application. This could involve setting up a camera system for live face recognition or developing a software application for batch processing of images.
 
+The image shows the 68 facial landmarks detected by the dlib library, a popular tool for face detection and facial feature extraction in computer vision applications. These landmarks are specific points on the face that can be used to understand the facial structure and are often used in tasks such as face alignment, facial expression recognition, and face morphing. 
+Here's a brief overview of what these landmarks represent:
+1. Jawline: Points 0-16 outline the jaw.
+2. Eyebrows: Points 17-21 represent the right eyebrow, and points 22-26 represent the left eyebrow.
+3. Nose: Points 27-30 represent the bridge of the nose, and points 31-35 outline the bottom of the nose.
+4. Eyes: Points 36-41 outline the right eye, and points 42-47 outline the left eye.
+5. Mouth: Points 48-60 outline the outer lip contour, and points 61-68 outline the inner lip contour.
+These landmarks are essential for detailed facial analysis and are widely used in various computer vision and machine learning applications.
+
+
 ![The-68-landmarks-detected-by-dlib-library-This-image-was-created-by-Brandon-Amos-of-CMU](https://github.com/sudipbasu/Face-Recognition/assets/51303039/ad02e783-d7ac-4c7c-8756-687d1ac641a5)
 
 
