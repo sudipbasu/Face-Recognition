@@ -26,6 +26,9 @@ Evaluation: Test the model on a separate validation set to evaluate its accuracy
 
 Implementation: Integrate the trained model into a real-time application. This could involve setting up a camera system for live face recognition or developing a software application for batch processing of images.
 
+![The-68-landmarks-detected-by-dlib-library-This-image-was-created-by-Brandon-Amos-of-CMU](https://github.com/sudipbasu/Face-Recognition/assets/51303039/ad02e783-d7ac-4c7c-8756-687d1ac641a5)
+
+
 ## Applications
 Security and Surveillance: Enhancing security systems by enabling automated monitoring and alerting based on facial recognition.
 
